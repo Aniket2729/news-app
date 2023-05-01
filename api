@@ -1,0 +1,1 @@
+`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=730ff7322cfa42b1bcf5c490a89dd47b&page=${this.state.page}&pageSize=${this.props.pageSize}`
